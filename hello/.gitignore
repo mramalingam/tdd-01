@@ -5,7 +5,7 @@
 .gradle
 /build/
 /gradle.zip
-.idea/
+.idea/*
 out
 hello.iml
 hello
